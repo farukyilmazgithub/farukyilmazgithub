@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Turkey.
 * ✉️  You can contact me at [farukyilmazbusiness@gmail.com](mailto:farukyilmazbusiness@gmail.com)
-* 🤝  I'm open to collaborating on java backend development.
+* 🤝  I'm open to collaborating on java development.
 
 ### Skills
 
